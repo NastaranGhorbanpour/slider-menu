@@ -1,5 +1,5 @@
 # slider-menu
-![Image](https://github.com/user-attachments/assets/a34afc64-b887-4e79-a63a-a95634b09da9)
+![Image](https://github.com/user-attachments/assets/bf88d6d8-8e90-426c-8ec7-f9ae2e2356e2)
  
 - [Demo Project](https://nastaranghorbanpour.github.io/Effects/)
 - Developed by Nastaran Ghorbanpour
